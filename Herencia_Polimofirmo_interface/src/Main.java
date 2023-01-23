@@ -15,7 +15,7 @@ public class Main {
         System.out.println("El credito disponible del cliente es: " + client.credito);
         System.out.println("El telefono del cliente es: " + client.telefono);
 
-        
+
         System.out.println("=========================================");
         System.out.println("Datos del trabajador:");
         //trabajador
